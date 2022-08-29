@@ -1,49 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Julia Liu">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12101</md:content-id>
-  <md:title>Derived copy of Tutor HS Physics Test Content</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>102fe35e-a69c-46eb-a0d9-6e83e4cd8314</md:uuid>
-<md:slug>derived-copy-of-tutor-hs-physics-test-content</md:slug>
-</metadata>
-
+    <md:content-id>col12101</md:content-id>
+    <md:title>Derived copy of Tutor HS Physics Test Content</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>102fe35e-a69c-46eb-a0d9-6e83e4cd8314</md:uuid>
+    <md:slug>derived-copy-of-tutor-hs-physics-test-content</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m53213"/>
-        
-      
-    
-    
-      <col:module document="m53215"/>
-        
-      
-    
-    
-      <col:module document="m53227"/>
-        
-      
-    
-    
-      <col:module document="m53240"/>
-        
-      
-    
-    
-      <col:module document="m53242"/>
-        
-      
-    
+    <col:module document="m53213"/>
+    <col:module document="m53215"/>
+    <col:module document="m53227"/>
+    <col:module document="m53240"/>
+    <col:module document="m53242"/>
   </col:content>
 </col:collection>
